@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working at  https://ligaa.agency/
 - 🌱 I’m currently learning React 
+- 📫 How to reach me: [Twitter @tkyzmina](https://twitter.com/tkyzmina)
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
