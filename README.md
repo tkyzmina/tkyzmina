@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at https://ligaa.agency/
+- 🔭 I’m currently working at  https://ligaa.agency/
 - 🌱 I’m currently learning React 
 
 <!-- 👯 I’m looking to collaborate on ...
@@ -14,4 +14,4 @@
 #  Привет, меня зовут Татьяна.
 ## Я front-end разработчик из Санкт-Петербурга. 
 ## Люблю верстку и JS.
-## В настоящий момент верстаю адаптивно в Лига-А (https://ligaa.agency/)
+## В настоящий момент верстаю адаптивно в [Лига-А](https://ligaa.agency/)
