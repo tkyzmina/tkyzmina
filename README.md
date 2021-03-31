@@ -1,9 +1,10 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
-<h3 align="center">A front-end developer from Saint-Petersburg, Russia</h3>
-<h3>I can make adaptive responsive websites with vanilla JavaScript. Using Flex-box, Grid and CSS animations.</h3>
-<h3>I am currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and  open for new interesting projects.</h3>
-<h3>I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a></h3>
+<h4 align="center">A front-end developer from Saint-Petersburg, Russia</h4>
+<h3 align="center">I can make adaptive responsive websites with vanilla JavaScript. Using Flex-box, Grid and CSS animations.</h3>
+<h4>I’m currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and  open for new interesting projects.</h4>
+<h4>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h4>
 
+<h3>Contacts:</h3>
 <a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
   <a href="https://t.me/tkyzmina">
   <img align="left" alt="tkyzmina's Telegram" width="22px" src="icons/telegram.svg" />
