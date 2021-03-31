@@ -5,7 +5,7 @@
   <a href="https://t.me/tkyzmina">
   <img align="left" alt="tkyzmina's Telegram" width="22px" src="icons/telegram.svg" />
 </a>
-
+<br />
 
 - 🔭 I’m currently working at  https://ligaa.agency/
 - 🌱 I’m currently learning React 
