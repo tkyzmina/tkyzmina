@@ -17,3 +17,16 @@
 ## Я front-end разработчик из Санкт-Петербурга. 
 ## Люблю верстку и JS.
 ## В настоящий момент верстаю адаптивно в [Лига-А](https://ligaa.agency/)
+
+### Languages and Frameworks
+
+<img align="left" src="icons/html.svg" />
+<img align="left" src="icons/css3.svg" />
+<img align="left" src="icons/js.svg" />
+<img align="left" src="icons/react.svg" />
+<img align="left" src="icons/sass.svg" />
+<img align="left" src="icons/gulp.svg" />
+
+<br />
+<br />
+<br />
