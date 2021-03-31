@@ -1,10 +1,15 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
 <h3 align="center">A front-end developer</h3>
 
+<a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
+  <a href="https://t.me/tkyzmina">
+  <img align="left" alt="tkyzmina's Telegram" width="22px" src="icons/telegram.svg" />
+</a>
+
 
 - 🔭 I’m currently working at  https://ligaa.agency/
 - 🌱 I’m currently learning React 
-- 📫 How to reach me: [Twitter @tkyzmina](https://twitter.com/tkyzmina)
+<!-- - 📫 How to reach me: [Twitter @tkyzmina](https://twitter.com/tkyzmina) -->
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
