@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Tatyna</h2>
+<h3 align="center">A front-end developer</h3>
 
 
 - 🔭 I’m currently working at  https://ligaa.agency/
