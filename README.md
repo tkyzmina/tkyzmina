@@ -20,12 +20,12 @@
 
 ### Languages and Frameworks
 
-<img align="left" src="icons/html.svg" />
-<img align="left" src="icons/css3.svg" />
-<img align="left" src="icons/js.svg" />
-<img align="left" src="icons/react.svg" />
-<img align="left" src="icons/sass.svg" />
-<img align="left" src="icons/gulp.svg" />
+<img align="left" src="icons/html.svg" width="36" />
+<img align="left" src="icons/css3.svg"   width="36" />
+<img align="left" src="icons/js.svg"  width="36" />
+<img align="left" src="icons/react.svg"  width="36" />
+<img align="left" src="icons/sass.svg"  width="36" />
+<img align="left" src="icons/gulp.svg" width="36" />
 
 <br />
 <br />
