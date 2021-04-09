@@ -7,20 +7,20 @@
  <h3>My projects:</h3>
  <ul>
  <li>
- Apaptive online store - Autopatrs
- BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect
+ Apaptive online store - Autopatrs.
+ Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.
   <a href="https://github.com/tkyzmina/autoparts-shop">Repo</a> 
   <a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a>  
  </li>
  <li>
- Apaptive landing for sport club - FitnessGym
- BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect
+ Apaptive landing for sport club - FitnessGym.
+ Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.
   <a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a> 
   <a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a>  
  </li>
  <li>
   Apaptive page for Pult.ru
- BEM, Swiper JS, Sass, Gulp, Gulp include
+  Тechnologies:  BEM, Swiper JS, Sass, Gulp, Gulp include.
   <a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a> 
   <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a>  
  </li>
@@ -30,7 +30,8 @@
  <h3>My REACT projects:</h3>
  <ul>
  <li>
- Form-validation
+ Form-validation.
+ Тechnologies: React, Sass.
  <a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> 
  <a href="https://tkyzmina.github.io/react-form/">Github pages</a>  
  </li>
