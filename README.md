@@ -14,7 +14,7 @@
  </li>
  <li>
  Apaptive landing for sport club - FitnessGym.
- Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.
+ Тechnologies: BEM, Slick Slider, Vanilla JS, Sass, PixelPerfect.
   <a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a> 
   <a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a>  
  </li>
