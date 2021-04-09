@@ -1,9 +1,40 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
-<h4 align="center">A front-end developer from Saint-Petersburg, Russia</h4>
-<h3 align="center">I can make adaptive responsive websites with vanilla JavaScript. Using Flex-box, Grid and CSS animations.</h3>
-<h3 align="center">I’m currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and I’m open for new interesting projects.</h3>
-<h3 align="center">I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
-<h3 align="center">My native language is Russian but I also can speak English fluently.</h3>
+<h3>A front-end developer from Saint-Petersburg, Russia</h4>
+<h3>I can make adaptive responsive websites with vanilla JavaScript. Using Flex-box, Grid and CSS animations.</h3>
+<h3>I’m currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and I’m open for new interesting projects.</h3>
+<h3>My native language is Russian but I also can speak English fluently.</h3>
+
+ <h3>My projects:</h3>
+ <ul>
+ <li>
+ Apaptive online store - Autopatrs
+ BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect
+  <a href="https://github.com/tkyzmina/autoparts-shop">Repo</a> 
+  <a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a>  
+ </li>
+ <li>
+ Apaptive landing for sport club - FitnessGym
+ BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect
+  <a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a> 
+  <a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a>  
+ </li>
+ <li>
+  Apaptive page for Pult.ru
+ BEM, Swiper JS, Sass, Gulp, Gulp include
+  <a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a> 
+  <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a>  
+ </li>
+ <ul>
+
+ <h3>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
+  <h3>My REACT projects:</h3>
+ <ul>
+ <li>
+ Form-validation
+ <a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> 
+ <a href="https://tkyzmina.github.io/react-form/">Github pages</a>  
+ </li>
+ <ul>
 
 <h3>Contacts:</h3>
 <a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
