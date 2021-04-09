@@ -24,17 +24,17 @@
   <a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a> 
   <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a>  
  </li>
- <ul>
+ </ul>
 
  <h3>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
-  <h3>My REACT projects:</h3>
+ <h3>My REACT projects:</h3>
  <ul>
  <li>
  Form-validation
  <a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> 
  <a href="https://tkyzmina.github.io/react-form/">Github pages</a>  
  </li>
- <ul>
+ </ul>
 
 <h3>Contacts:</h3>
 <a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
