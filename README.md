@@ -11,30 +11,24 @@
  Apaptive online store - Autopatrs.
  <ul>
  <li>Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.</li>
- <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a></li>
- <li><a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
+ <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a><a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
  </ul>  
  </li>
-
  <li>
  Apaptive landing for sport club - FitnessGym.
  <ul>
  <li>Тechnologies: BEM, Slick Slider, Vanilla JS, Sass, PixelPerfect.</li>
- <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a></li>
- <li><a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
+ <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a><a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
  </ul>  
  </li>
-
  <li>
   Apaptive page for Pult.ru
   <ul>
   <li>Тechnologies:  BEM, Swiper JS, Sass, Gulp, Gulp include.</li>
-  <li><a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a></li>
-  <li><a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
+  <li><a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a><a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
   </ul>  
  </li>
  </ul>
-
  <h3>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
  <h3>My REACT projects:</h3>
  <ul>
@@ -42,8 +36,7 @@
  Form-validation.
  <ul>
  <li> Тechnologies: React, Sass.</li>
- <li><a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a></li>
- <li><a href="https://tkyzmina.github.io/react-form/">Github pages</a></li>
+ <li><a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> <a href="https://tkyzmina.github.io/react-form/">Github pages</a></li>
  </ul>   
  </li>
  </ul>
