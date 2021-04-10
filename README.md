@@ -11,21 +11,21 @@
  Apaptive online store - Autopatrs.
  <ul>
  <li>Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.</li>
- <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a><a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
+ <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a> <a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
  </ul>  
  </li>
  <li>
  Apaptive landing for sport club - FitnessGym.
  <ul>
  <li>Тechnologies: BEM, Slick Slider, Vanilla JS, Sass, PixelPerfect.</li>
- <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a><a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
+ <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a> <a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
  </ul>  
  </li>
  <li>
   Apaptive page for Pult.ru
   <ul>
   <li>Тechnologies:  BEM, Swiper JS, Sass, Gulp, Gulp include.</li>
-  <li><a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a><a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
+  <li><a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a> <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
   </ul>  
  </li>
  </ul>
