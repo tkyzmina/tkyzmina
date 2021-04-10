@@ -6,13 +6,14 @@
 
  <h3>My projects:</h3>
  <ul>
+
  <li>
  Apaptive online store - Autopatrs.
  <ul>
  <li>Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.</li>
  <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a></li>
  <li><a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
- <ul>  
+ </ul>  
  </li>
 
  <li>
@@ -21,7 +22,7 @@
  <li>Тechnologies: BEM, Slick Slider, Vanilla JS, Sass, PixelPerfect.</li>
  <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a></li>
  <li><a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
- <ul>  
+ </ul>  
  </li>
 
  <li>
