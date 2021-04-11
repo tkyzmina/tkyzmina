@@ -39,6 +39,13 @@
  <li><a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> <a href="https://tkyzmina.github.io/react-form/">Github pages</a></li>
  </ul>   
  </li>
+ <li>
+ Todo App.
+ <ul>
+ <li> Тechnologies: React, Sass.</li>
+ <li><a href="https://github.com/tkyzmina/react-todo">Repo</a> <a href="https://tkyzmina.github.io/react-todo/">Github pages</a></li>
+ </ul>   
+ </li>
  </ul>
 
 <h3>Contacts:</h3>
