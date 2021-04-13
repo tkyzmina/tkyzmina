@@ -11,6 +11,7 @@
  Apaptive online store - Autopatrs.
  <ul>
  <li>Тechnologies: BEM, Swiper JS, Vanilla JS, Sass, PixelPerfect.</li>
+ <li>Icons to Html from SVG Sprite</li>
  <li><a href="https://github.com/tkyzmina/autoparts-shop">Repo</a> <a href="https://tkyzmina.github.io/autoparts-shop/">Github pages</a></li>
  </ul>  
  </li>
