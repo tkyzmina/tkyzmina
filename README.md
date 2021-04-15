@@ -29,6 +29,13 @@
   <li><a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand">Repo</a> <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
   </ul>  
  </li>
+ <li>
+  Custom components
+  Тechnologies:  BEM, JavaScript, Css.
+  <ul>  
+  <li>Custom Accordion <a href="https://github.com/tkyzmina/custom-tab">Repo</a> <a href="https://tkyzmina.github.io/custom-tab/">Github pages</a></li>
+  </ul>  
+ </li>
  </ul>
  <h3>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
  <h3>My REACT projects:</h3>
