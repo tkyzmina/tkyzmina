@@ -19,7 +19,7 @@
  Apaptive landing for sport club - FitnessGym.
  <ul>
  <li>Тechnologies: BEM, Slick Slider, Vanilla JS, Sass, PixelPerfect.</li>
- <li>Using Webp and images retinafication with <code><picture></picture></code></li>
+ <li>Using Webp and images retinafication with <code>picture tag</code></li>
  <li><a href="https://github.com/tkyzmina/fitnes-supergym">Repo</a> <a href="https://tkyzmina.github.io/fitnes-supergym/">Github pages</a></li>
  </ul>  
  </li>
