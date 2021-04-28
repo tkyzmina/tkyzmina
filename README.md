@@ -35,6 +35,7 @@
   Тechnologies:  BEM, JavaScript, Css.
   <ul>  
   <li>Custom Accordion <a href="https://github.com/tkyzmina/custom-tab">Repo</a> <a href="https://tkyzmina.github.io/custom-tab/">Github pages</a></li>
+  <li>Custom Modal windows <a href="https://github.com/tkyzmina/custom-modals">Repo</a> <a href="https://tkyzmina.github.io/custom-modals/">Github pages</a></li>
   </ul>  
  </li>
  </ul>
