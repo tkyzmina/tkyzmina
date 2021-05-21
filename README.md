@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
 <h3>A front-end developer from Saint-Petersburg, Russia</h4>
-<h3>I can make adaptive responsive websites with vanilla JavaScript. Using Flex-box, Grid and CSS animations.</h3>
+<h3>I can make adaptive responsive websites with vanilla JavaScript. Using Pug, Flex-box, Grid and CSS animations.</h3>
 <h3>I’m currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and I’m open for new interesting projects.</h3>
 <h3>My native language is Russian but I also can speak English fluently.</h3>
 
@@ -73,6 +73,7 @@
 <img align="left" src="icons/react.svg"  width="36" />
 <img align="left" src="icons/sass.svg"  width="36" />
 <img align="left" src="icons/gulp.svg" width="36" />
+<img align="left" src="icons/pug.png" width="36" />
 
 <br />
 <br />
