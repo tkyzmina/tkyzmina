@@ -26,9 +26,9 @@
  <li>
   Apaptive landing pages test tasks:
   <ul>
-  <li>Тechnologies:  BEM, Swiper JS, Sass, Gulp, Gulp include.</li>
+  <li>Тechnologies: BEM, Swiper JS, Sass, Gulp, Gulp include.</li>
   <li>for Pult.ru<a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand"> Repo</a> <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
-  <li>for Svetliye Golovy claramente.ru<a href="https://github.com/tkyzmina/desktop-landig"> Repo</a> <a href="https://tkyzmina.github.io/desktop-landig/">Github pages</a></li>
+  <li>Desktop page for Svetliye Golovy claramente.ru<a href="https://github.com/tkyzmina/desktop-landig"> Repo</a> <a href="https://tkyzmina.github.io/desktop-landig/">Github pages</a></li>
   </ul>  
  </li>
  <li>
