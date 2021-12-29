@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
 <h3>A front-end developer from Saint-Petersburg, Russia</h4>
 <h3>I can make adaptive responsive websites with vanilla JavaScript. Using Pug, Flex-box, Grid and CSS animations.</h3>
-<h3>I’m currently working as front-end developer at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> and I’m open for new interesting projects.</h3>
+<h3>I workied at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> as front-end developer and now I’m open for new interesting projects.</h3>
 <h3>My native language is Russian but I also can speak English fluently.</h3>
 
  <h3>My projects:</h3>
@@ -26,8 +26,8 @@
  <li>
   Apaptive landing pages test tasks:
   <ul>
-  <li>Тechnologies: BEM, Swiper JS, Sass, Gulp, Gulp include.</li>
-  <li>for Pult.ru<a href="https://github.com/tkyzmina/Adaltive-page-for-acoustics-brand"> Repo</a> <a href="https://tkyzmina.github.io/Adaltive-page-for-acoustics-brand/">Github pages</a></li>
+  <li>Тechnologies: BEM, Sass,JS, Gulp, Gulp include.</li>
+  <li>for Veeam<a href="https://tkyzmina.github.io/landing-page-test/"> Repo</a> <a href="https://github.com/tkyzmina/landing-page-test">Github pages</a></li>
   <li>Desktop page for Svetliye Golovy claramente.ru<a href="https://github.com/tkyzmina/desktop-landig"> Repo</a> <a href="https://tkyzmina.github.io/desktop-landig/">Github pages</a></li>
   </ul>  
  </li>
