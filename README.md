@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tatyana</h2>
 <h3>A front-end developer from Saint-Petersburg, Russia</h4>
 <h3>I can make adaptive responsive websites with vanilla JavaScript. Using Pug, Flex-box, Grid and CSS animations.</h3>
-<h3>I worked at <a href="https://ligaa.agency/" target="_blank" rel="nofollow noopener noreferrer">Liga-A</a> as front-end developer and now I’m open for new interesting projects.</h3>
+<h3>I work as front-end developer.</h3>
 <h3>My native language is Russian but I also can speak English fluently.</h3>
 
  <h3>My projects:</h3>
@@ -51,13 +51,13 @@
  </ul>   
  </li>
  <li>
- Todo App.
+ Feedback App.
  <ul>
- <li> Тechnologies: React, Sass.</li>
- <li><a href="https://github.com/tkyzmina/react-todo">Repo</a> <a href="https://tkyzmina.github.io/react-todo/">Github pages</a></li>
+ <li> Тechnologies: React, ReactRouter.</li>
+ <li><a href="https://github.com/tkyzmina/Feedback-App">Repo</a> <a href="https://elaborate-chimera-54c070.netlify.app/">Netlify</a></li>
  </ul>   
  </li>
- </ul>
+ </ul> 
 
 <h3>Contacts:</h3>
 <a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
