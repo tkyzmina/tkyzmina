@@ -40,7 +40,6 @@
   </ul>  
  </li>
  </ul>
- <h3>I’m learning <a href="https://reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">REACT JS</a>.</h3>
  <h3>My REACT projects:</h3>
  <ul>
  <li>
