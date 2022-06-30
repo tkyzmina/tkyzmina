@@ -43,10 +43,10 @@
  <h3>My REACT projects:</h3>
  <ul>
  <li>
- Form-validation.
+ Users App.
  <ul>
- <li> Тechnologies: React, Sass.</li>
- <li><a href="https://github.com/tkyzmina/react-form/tree/master">Repo</a> <a href="https://tkyzmina.github.io/react-form/">Github pages</a></li>
+ <li> Тechnologies: React, React Router, Axios, Tailwind.</li>
+ <li><a href="https://github.com/tkyzmina/React-Users">Repo</a> <a href="https://react-users2022.netlify.app/">Users on Netlify</a></li>
  </ul>   
  </li>
  <li>
