@@ -27,7 +27,7 @@
   Apaptive landing pages test tasks:
   <ul>
   <li>Тechnologies: BEM, Sass,JS, Gulp, Gulp include.</li>
-  <li>for Veeam<a href="https://tkyzmina.github.io/landing-page-test/"> Repo</a> <a href="https://github.com/tkyzmina/landing-page-test">Github pages</a></li>
+  <li>for Veeam<a href="https://tkyzmina.github.io/landing-page-test/"> Repo</a> <a href="https://tkyzmina.github.io/landing-page-test"/>Github pages</a></li>
   <li>Desktop page for Svetliye Golovy claramente.ru<a href="https://github.com/tkyzmina/desktop-landig"> Repo</a> <a href="https://tkyzmina.github.io/desktop-landig/">Github pages</a></li>
   </ul>  
  </li>
