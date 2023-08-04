@@ -28,6 +28,7 @@
   <ul>
   <li>Тechnologies: BEM, Sass,JS, Gulp, Gulp include.</li>
   <li>for Veeam<a href="https://tkyzmina.github.io/landing-page-test/"> Repo</a> <a href="https://tkyzmina.github.io/landing-page-test"/>Github pages</a></li>
+  <li>Adaptive Landing page with GSAP animations, mobile menu, form validation and fetched data from API <a href="https://github.com/tkyzmina/animate"> Repo</a> <a href="https://tkyzmina.github.io/animate/build/"/>Github pages</a></li>
   <li>Desktop page for Svetliye Golovy claramente.ru<a href="https://github.com/tkyzmina/desktop-landig"> Repo</a> <a href="https://tkyzmina.github.io/desktop-landig/">Github pages</a></li>
   </ul>  
  </li>
@@ -56,7 +57,7 @@
  <li><a href="https://github.com/tkyzmina/Feedback-App">Repo</a> <a href="https://elaborate-chimera-54c070.netlify.app/">Netlify</a></li>
  </ul>   
  </li>
- </ul> 
+ </ul>
 
 <h3>Contacts:</h3>
 <a href="https://twitter.com/tkyzmina" target="blank"><img align="left" src="icons/twitter.svg" alt="tkyzmina" width="22px" /></a>
